@@ -11,11 +11,3 @@ function carre(entier) {
 
 	return resultat;
 }
-
-// Exemples
-console.log(carre(2));
-console.log(carre(3));
-console.log(carre(4));
-console.log(carre(9));
-console.log(carre(12));
-console.log(carre(19));
